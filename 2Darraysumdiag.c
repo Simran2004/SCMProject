@@ -1,4 +1,6 @@
+//Modified Changes in Github 2Darraysumdiag.c file.
 #include<stdio.h>
+
 int main()
 {
     int rows,columns;
